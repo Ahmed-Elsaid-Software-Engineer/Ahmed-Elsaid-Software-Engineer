@@ -1,7 +1,6 @@
  <h1 align="center">Hi 👋, I'm Ahmed El-said</h1>
 <h3 align="center">Mobile app Developer , Flutter Instructor</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-elsaid-aea&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-elsaid-aea" /> </p> 
 
 <p align="left"> <a href="https://twitter.com/no" target="blank"><img src="https://img.shields.io/twitter/follow/no?logo=twitter&style=for-the-badge" alt="no" /></a> </p>
 
