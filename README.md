@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/no" target="blank"><img src="https://img.shields.io/twitter/follow/no?logo=twitter&style=for-the-badge" alt="no" /></a> </p>
 
-- If you want ask me on [Whatsapp](+201001398831)
+- If you want ask me on [Whatsapp](https://wa.link/kztcf6)
 
 - 💬 Ask me about **Programming**
 
